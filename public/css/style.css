@@ -1,0 +1,7 @@
+.miimg:hover{
+    transform: scale(1.1);
+
+}
+.miimg{
+    transition: all 0.2s ease;
+}
